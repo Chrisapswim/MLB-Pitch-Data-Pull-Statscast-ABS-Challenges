@@ -1,8 +1,5 @@
 # 2026 MLB Pitch Data Pull: Statcast + ABS Challenges
 
-**ISYE 7406 – Georgia Tech**
-Team: [Team member names]
-
 ## Overview
 
 This folder contains the pipeline that builds a pitch-level dataset of the full MLB regular season (Currently set to 2026). Each pitch comes from Baseball Savant's Statcast data, with Automated Ball-Strike (ABS) challenge labels and derived strike-zone columns added.
